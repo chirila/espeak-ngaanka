@@ -1684,6 +1684,9 @@ include ph_arabic
 phonemetable ba base1
 include ph_bashkir
 
+phonemetable bcj base1
+include ph_bardi
+
 phonemetable cmn base1
 include ph_cmn
 
