@@ -1,2 +1,8 @@
 name Bardi
 language bcj
+
+maintainer Claire Bowern claire.bowern@yale.edu
+status preliminary
+phonemes bcj
+dictrules 1
+tunes s3 c3 q3 e3 // imported from french to test
