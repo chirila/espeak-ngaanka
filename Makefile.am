@@ -599,7 +599,7 @@ ba: espeak-ng-data/ba_dict
 espeak-ng-data/ba_dict: dictsource/ba_list dictsource/ba_rules
 
 bcj: espeak-ng-data/bcj_dict
-espeak-ng-data/bcj_dict: dictsource/bcj_list dictsource/bcj_listx dictsource/bcj_rules dictsource/bcj_extra
+espeak-ng-data/bcj_dict: dictsource/bcj_list dictsource/bcj_rules
 
 be: espeak-ng-data/be_dict
 espeak-ng-data/be_dict: dictsource/be_list dictsource/be_rules

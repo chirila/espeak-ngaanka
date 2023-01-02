@@ -42,7 +42,6 @@
 
 .group a
         a          a
-        ae         ,aE2  // Evitem la neutralització
         amb (_A     am    // Sensibilització
 
 
@@ -75,9 +74,6 @@
 
 .group e
         e          E
-        ea         E2,a // Evitem la neutralització
-        eo         E2,o // Evitem la neutralització
-
         e (nt_     e
 
 
@@ -127,7 +123,6 @@
         l          l
         ll         l^
      _) l' (P2     l
-     -) la (_      la#
 
 
 .group m
@@ -255,4 +250,4 @@
      g) ü          w
         ñ          n^
 
-        $          dola#*
+
