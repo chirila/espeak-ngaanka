@@ -2,6 +2,7 @@
 // Phonemes for bardi
 // This inherits from ph_hindi
 // Modeled on ph_gujarati and ph_hawaiian
+// First draft, Claire Bowern, July 16 2024
 
 
 phoneme a

@@ -2,7 +2,14 @@ name Bardi
 language bcj
 
 maintainer Claire Bowern claire.bowern@yale.edu
-status preliminary
+status testing
 phonemes bcj
-dictrules 1
-tunes s3 c3 q3 e3 // imported from french to test
+// dictrules 1
+pitch 82 118 // defaults; change
+tunes s1 c3 q1 e3 // Will probably need to change these
+stressRule 1 // stress on initial syllable
+stressAmp 15 15 20 15 0 0 25 25  // reduce unstressed vowels just a little
+stressLength 120 120 200 150 0 0 250 250 // reduce unstressed vowels
+speed 100 // adding in case we want to change it
+voicing 100 // adding in case we want to change it
+flutter 100 // adding in case we want to change it
