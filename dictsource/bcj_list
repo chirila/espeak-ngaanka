@@ -3,15 +3,15 @@
 
 // Letters
 a	@
-aa	@
+aa	a:
 b	b@
 d	d@
 g	g@
 i	i
-ii	i
+ii	i:
 j	j@
 k	g@
-l	@l
+l	l@
 m	@m
 n	@n
 ng	N@
@@ -33,3 +33,7 @@ _2  guy@r@
 
 gala    g@l@
 
+// words with long u:
+
+gooloo	ku:lu
+oola	u:la
