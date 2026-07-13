@@ -554,6 +554,12 @@ Translator *SelectTranslator(const char *name)
 		tr->langopts.numbers = NUM_DECIMAL_COMMA | NUM_ALLOW_SPACE | NUM_DFRACTION_3;
 	}
 		break;
+	case L('b', 'c', 'j'): // Bardi
+	{
+		tr->langopts.stress_rule = STRESSPOSN_1L; // stress on final syllable
+		tr->langopts.stress_flags = S_NO_AUTO_2 | S_FINAL_DIM; // don't use secondary stress
+	}
+		break;
 	case L('b', 'e'): // Belarusian
 	{
 		static const unsigned char stress_amps_be[8] = { 12, 10, 8, 8, 0, 0, 16, 17 };

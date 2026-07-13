@@ -1836,6 +1836,9 @@ include ph_yue
 
 // *** Tables extending base2 ***
 
+phonemetable bcj base2
+include ph_bardi
+
 phonemetable be base2
 include ph_belarusian
 

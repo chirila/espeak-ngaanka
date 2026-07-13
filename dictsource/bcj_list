@@ -1,0 +1,48 @@
+// This file is UTF8 encoded
+// Spelling to phoneme rules for Bardi
+// Authored by Claire Bowern, 2026
+
+// Letters
+a	@
+aa	a:
+b	b@
+d	d@
+g	g@
+i	i
+ii	i:
+j	Z@
+k	g@
+l	l@
+m	@m
+n	@n
+ng	N@
+o	o
+oo	u
+r	r
+rr	R
+w	w@
+y	j@
+
+
+// Numbers
+
+_0  'najing
+_1  'arinyji
+_2  'guy@r@
+_3  'irj@R
+
+// unstressed items
+
+gala    g@l@
+
+// words with long u:
+
+gooloo	ku:lu
+oola	u:la
+
+
+// Unstressed words
+
+jarri    $u+
+
+// check j for palatal stop

@@ -1,0 +1,85 @@
+// translation rules for Bardi
+// This file is UTF-8 encoded
+// Authored by Claire Bowern, 2026
+
+// need @ rule
+
+
+// Vowels
+.L01 i u  // high vowels
+
+// Consonants
+.L02 b d g j l m n N r R t w 
+
+
+.group a
+    a       a
+    aa      a:
+    a   (y  aI
+    a   (ny aI
+
+.group b
+       b    b
+    _) b    p
+       b (_ p 
+    A) b (A B
+
+.group d
+        d   d
+    _)  d   t.
+        d (_    t.
+
+.group g
+        g   g
+    _)  g   k
+        g (_    k
+
+.group i
+    i       i
+    ii      i:
+
+
+.group j
+        j   J
+    _)  j   c
+
+.group k
+        k   g
+
+
+.group l
+        l   l
+        ly  l^
+
+.group m
+        m   m
+
+.group n
+        n   n
+
+.group N  
+        ng  N
+        ny  n^
+
+.group o
+    o       O
+    oo      u
+
+.group r
+        r   r.
+        rr  R
+        rn  n.
+        rl  l.
+        rd  d.
+    2@) rr  *
+        rr (V_  *
+
+.group w
+        w   w
+
+.group y
+        y   y
+
+
+
+

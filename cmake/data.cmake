@@ -1,6 +1,6 @@
 list(APPEND _dict_compile_list
   ab af am an ar as az
-  ba be bg bn bpy bs
+  ba bcj be bg bn bpy bs
   ca chr cmn crh cs cv cy
   da de
   el en eo es et eu
