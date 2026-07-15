@@ -38,8 +38,8 @@ phoneme i:
 endphoneme
 
 
-phoneme O
-  vwl  starttype #O  endtype #O
+phoneme o
+  vwl  starttype #o  endtype #o
   length 130
   FMT(vowel/o)
 endphoneme
@@ -405,6 +405,8 @@ phoneme b
   IF nextPh(isVowel) THEN
     IF prevPh(isVowel) THEN
         ChangePhoneme(B)
+    ENDIF
+  ENDIF
   FMT(b/b) addWav(x/b)
 endphoneme
 
@@ -493,7 +495,7 @@ phoneme t.
   vls rfx stp
   lengthmod 2
   ipa ʈ
-  voicingswitch d.#
+  voicingswitch d.
   Vowelin f1=0  f2=1800 -300 300  f3=-200 80
   Vowelout f1=0 f2=1800 -300 250  f3=-400 80  rms=20 colr=2
   
